@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/SaiCharanReddi-pfw/Foodfrenzynew/static/css/main.c9072b29.css",
+    "main.js": "//github.com/SaiCharanReddi-pfw/Foodfrenzynew/static/js/main.f9d7ebe8.js",
+    "index.html": "//github.com/SaiCharanReddi-pfw/Foodfrenzynew/index.html",
+    "main.c9072b29.css.map": "//github.com/SaiCharanReddi-pfw/Foodfrenzynew/static/css/main.c9072b29.css.map",
+    "main.f9d7ebe8.js.map": "//github.com/SaiCharanReddi-pfw/Foodfrenzynew/static/js/main.f9d7ebe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9072b29.css",
+    "static/js/main.f9d7ebe8.js"
+  ]
+}
